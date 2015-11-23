@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Star Wars Companion</string>
+
+    <string name="navigation_drawer_open">Otevřít navigační panel</string>
+    <string name="navigation_drawer_close">Zavřít navigační panel</string>
+
+    <string name="action_settings">Nastavení</string>
+    <string name="nav_menu_about">O filmu</string>
+    <string name="nav_menu_episodes">Epizody</string>
+    <string name="nav_menu_characters">Postavy</string>
+    <string name="nav_menu_cinema">V kinech</string>
+    <string name="nav_menu_project">O aplikaci</string>
+</resources>
