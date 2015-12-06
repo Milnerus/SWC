@@ -11,4 +11,5 @@
     <string name="nav_menu_characters">Postavy</string>
     <string name="nav_menu_cinema">V kinech</string>
     <string name="nav_menu_project">O aplikaci</string>
+    <string name="nav_menu_quiz">Kvíz</string>
 </resources>

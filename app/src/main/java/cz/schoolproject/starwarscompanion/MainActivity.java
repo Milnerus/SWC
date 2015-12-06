@@ -80,7 +80,10 @@ public class MainActivity extends AppCompatActivity
 
         } else if (id == R.id.nav_project) {
 
-        }
+    }
+         else if (id == R.id.nav_quiz) {
+
+    }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
