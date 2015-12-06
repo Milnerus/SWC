@@ -11,4 +11,5 @@
     <string name="nav_menu_cinema">In cinema</string>
     <string name="nav_menu_project">About application</string>
     <string name="title_activity_episodes">Episodes</string>
+    <string name="nav_menu_quiz">Quiz</string>
 </resources>
