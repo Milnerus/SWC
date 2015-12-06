@@ -75,7 +75,8 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(this,Episodes.class);
             startActivity(intent);
         } else if (id == R.id.nav_characters) {
-
+            Intent intent = new Intent(this,Episodes.class);
+            startActivity(intent);
         } else if (id == R.id.nav_cinema) {
 
         } else if (id == R.id.nav_project) {
