@@ -27,6 +27,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="cz.schoolproject.starwarscompanion.MainActivity" />
         </activity>
+        <activity
+            android:name=".personas"
+            android:label="@string/title_activity_personas"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
     </application>
 
 </manifest>
